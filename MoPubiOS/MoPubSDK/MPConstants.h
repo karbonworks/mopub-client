@@ -29,4 +29,4 @@
 
 // Constant for conditional compilation of -[UIDevice uniqueIdentifier] (UDID). The SDK will never
 // utilize -[UIDevice uniqueIdentifier] if this value is set to 0.
-#define MOPUB_ENABLE_UDID           1
+#define MOPUB_ENABLE_UDID           0
